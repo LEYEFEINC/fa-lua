@@ -1,2 +1,2 @@
 # fa-lua
-Simple FlashAir Lua scripts
+FlashAir Lua sample scripts
